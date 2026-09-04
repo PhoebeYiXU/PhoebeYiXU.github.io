@@ -22,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yi Xu (Phoebe)"
-  avatar           : "images/profile.svg"
+  avatar           : "images/profile.png"
   bio              : "  SJTU ICCI | Associate Professor "
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=HrnUVccAAAAJ"
   email            : "xyphoebe@sjtu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://phoebeyxlab.nocode.host"
+  researchgate     : "https://www.researchgate.net/profile/Yi-Xu-21"
+  uri              : "https://icci.sjtu.edu.cn/en/faculty/view/11"
   bitbucket        :
   codepen          :
   dribbble         :

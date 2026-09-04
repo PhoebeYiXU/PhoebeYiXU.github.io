@@ -146,6 +146,17 @@ I advocate for an *Agentic Education* paradigm, viewing the classroom as a real-
 - **Public scholarship:** Long-form course recaps on the [ICCI WeChat 公众号](https://mp.weixin.qq.com/) covering student-industry projects with **China Literature (阅文)**, **Shanghai Jiushi Performance (久事)**, and **Double Happiness (红双喜)** — reaching a professional audience across cultural-creative industries.
 - **Research uptake:** Publications cited **600+ times since 2020** (Google Scholar); AI-fairness and digital-well-being work covered by Chinese mainstream media.
 
+# 📱 Selected Public Scholarship (WeChat 公众号)
+
+Long-form course recaps, industry case studies, and student–industry project showcases published on the [ICCI WeChat 公众号](https://mp.weixin.qq.com/) (China's primary long-form platform, ~1.3B MAU parent app), reaching a professional audience across cultural-creative industries:
+
+- **Industry field-visit series with China Literature (阅文集团)** — student projects on AI-assisted content production, digital reading, and IP adaptation
+- **Industry field-visit series with Shanghai Jiushi Performance (上海久事)** — cultural-creative industry case studies on brand strategy and audience engagement
+- **Industry field-visit series with Double Happiness (红双喜)** — heritage brand digital transformation and youth marketing
+- Plus regular **teaching reflections**, **course recaps**, and **student-industry project showcases** for the *AI: Its Nature and Future* and *Digital Cultural and Creative Industries Research II* courses
+
+*Full archive of course outputs, field-visit reports, and industry case studies is publicly available at the [ICCI WeChat 公众号](https://mp.weixin.qq.com/). Curated selections of recent articles are featured under the [News](#-news) section.*
+
 # 🏆 Honors & Affiliations
 
 - **Vice Chairperson**, Social Psychology Committee, Shanghai Psychological Association
