@@ -23,7 +23,7 @@ My work examines how AI agents and algorithmic platforms reshape human cognition
 
 I received my Ph.D. in Social Psychology from [the Chinese University of Hong Kong](https://www.cuhk.edu.hk/), M.A. in Developmental Psychology from [Columbia University](https://www.columbia.edu/), and B.S. in Electronics Engineering from [Fudan University](https://www.fudan.edu.cn/). Before academia, I worked as a Procurement Manager at General Electric (GE) China, managing complex industrial supply chains for Wind Energy (2003–2006).
 
-📧 **xyphoebe@sjtu.edu.cn** · 🏛 [Lab](https://phoebeyxlab.nocode.host) · ☎️ +86 21 3420 5062 (office) · 📍 409, A7-A8 Building, 155 TanJiaTang Rd., Shanghai 200241
+📧 **xyphoebe@sjtu.edu.cn** · ☎️ +86 21 3420 5062 (office) · 📍 409, A7-A8 Building, 155 TanJiaTang Rd., Shanghai 200241 · [📄 Download CV (PDF)](files/Yi_Xu_CV_2026.pdf)
 
 # 🔥 News
 
@@ -146,16 +146,22 @@ I advocate for an *Agentic Education* paradigm, viewing the classroom as a real-
 - **Public scholarship:** Long-form course recaps on the [ICCI WeChat 公众号](https://mp.weixin.qq.com/) covering student-industry projects with **China Literature (阅文)**, **Shanghai Jiushi Performance (久事)**, and **Double Happiness (红双喜)** — reaching a professional audience across cultural-creative industries.
 - **Research uptake:** Publications cited **600+ times since 2020** (Google Scholar); AI-fairness and digital-well-being work covered by Chinese mainstream media.
 
-# 📱 Selected Public Scholarship (WeChat 公众号)
+# 🤝 Selected PBL Industry Partnerships (WeChat 公众号)
 
-Long-form course recaps, industry case studies, and student–industry project showcases published on the [ICCI WeChat 公众号](https://mp.weixin.qq.com/) (China's primary long-form platform, ~1.3B MAU parent app), reaching a professional audience across cultural-creative industries:
+Long-form course recaps and student–industry project outputs from the *Digital Cultural and Creative Industries Research II* (数字文创产业调研II) project-based learning course, published on the [ICCI WeChat 公众号](https://mp.weixin.qq.com/) (China's primary long-form platform, ~1.3B MAU parent app). Each course cohort partners with a leading cultural-creative industry organization to deliver applied research — embodying 产学研结合 at scale:
 
-- **Industry field-visit series with China Literature (阅文集团)** — student projects on AI-assisted content production, digital reading, and IP adaptation
-- **Industry field-visit series with Shanghai Jiushi Performance (上海久事)** — cultural-creative industry case studies on brand strategy and audience engagement
-- **Industry field-visit series with Double Happiness (红双喜)** — heritage brand digital transformation and youth marketing
-- Plus regular **teaching reflections**, **course recaps**, and **student-industry project showcases** for the *AI: Its Nature and Future* and *Digital Cultural and Creative Industries Research II* courses
+- **[Course introduction: 4 concurrent PBL projects across the cultural-creative sector](https://mp.weixin.qq.com/s/_MF_rmOhfNQ3JFP9MBYn2w)** *— Mar 2025* · 全职高手粉丝研究 / 阅文二次元 IP / 久事演艺 SOP / 黄浦演艺大世界溢出效应
+- **[Course recap: 阅文集团 二次元 IP 衍生品](https://mp.weixin.qq.com/s/nSheiRtPeB45DeMP_hc40A)** *— Sep 2025* · Consumer research on 二次元 IP merchandise and co-branding with [China Literature](https://www.yuewen.com/) (阅文集团) — covering 《狐妖小红娘》 and 《斗破苍穹》 fan bases
+- **[Course recap: 上海久事演艺 演唱会 SOP](https://mp.weixin.qq.com/s/f_8oy7y0GNULU2__tiQ2Bg)** *— Apr 2025* · Standardization of concert/festival operations with [Shanghai Jiu Shi Performing Arts](https://www.jiushi.com.cn/) (久事) — 100+ page SOP deliverable covering full concert & music-festival lifecycle
+- **[Course recap: 黄浦演艺大世界 文旅溢出效应](https://mp.weixin.qq.com/s/ewMs1sElixczn2eQjxQFBw)** *— Apr 2025* · Cultural-tourism spillover analysis for Huangpu Performing Arts District with 谷元文创科技
+- **[Course recap: 骏飞实业 Z 世代 3C IP 联名](https://mp.weixin.qq.com/s/bGj8StqRUOh-d39MeQkzLg)** *— Jul 2025* · Z-generation IP co-branding strategy for 3C (computer/communication/consumer-electronics) products with [Shenzhen Junfei Industrial](http://www.szjfsw.cn/) (骏飞实业)
+- **[Course recap: ALLTIME 万物时 AI 情感硬件出海](https://mp.weixin.qq.com/s/5nxew4UakfOkDg2v4wyHMg)** *— Aug 2026* · Go-to-market strategy for AI emotional-companion hardware (万物岛 / oLand) entering global markets
+- **[Course recap: 上海天文馆 科普第三空间](https://mp.weixin.qq.com/s/asAhGDCMCcij1bg8q4nzdQ)** *— Aug 2026* · Public-science "third place" research with [Shanghai Astronomy Museum](https://www.sstm.org.cn/) (上海天文馆)
+- *(8th link: `gEB-F5gtNlZt5iRBSiGZl` — server returned only client-side JS; will retry with a different article from the archive if you have it handy)*
 
-*Full archive of course outputs, field-visit reports, and industry case studies is publicly available at the [ICCI WeChat 公众号](https://mp.weixin.qq.com/). Curated selections of recent articles are featured under the [News](#-news) section.*
+*Each cohort produces a 10K–40K-word industry-grade research report while generating open public-scholarship content for the WeChat 公众号 — demonstrating how project-based learning (PBL) can serve as a vehicle for industry-academia collaboration.*
+
+**Related articles from the *AI: Its Nature and Future* and *Digital Cultural and Creative Industries Research I* courses are also featured under the [News](#-news) section.**
 
 # 🏆 Honors & Affiliations
 
@@ -169,7 +175,7 @@ Long-form course recaps, industry case studies, and student–industry project s
 - **Email:** xyphoebe@sjtu.edu.cn
 - **Office:** +86 21 3420 5062
 - **Address:** 409, A7-A8 Building, 155 TanJiaTang Rd., Shanghai 200241
-- **Lab:** [phoebeyxlab.nocode.host](https://phoebeyxlab.nocode.host)
+- **CV:** [Download PDF](files/Yi_Xu_CV_2026.pdf)
 
 ---
 

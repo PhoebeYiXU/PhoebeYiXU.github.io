@@ -1,0 +1,31 @@
+// ============================================================================
+// Avatar shape override
+// ----------------------------------------------------------------------------
+// Minimal-mistakes (the upstream theme) renders the author avatar with
+// `border-radius: 50%`, which crops the portrait to a circle. For a portrait-
+// orientation headshot this reads as a memorial portrait rather than a
+// professional academic photo.
+//
+// Override to a rounded rectangle: subtle 8px corners, preserve the full
+// portrait aspect ratio, cap the displayed width.
+// ============================================================================
+
+.author__avatar {
+  border-radius: 8px !important;
+  overflow: hidden;
+  width: auto !important;
+  height: auto !important;
+}
+
+.author__avatar img {
+  border-radius: 8px !important;
+  max-width: 220px;
+  width: auto;
+  height: auto;
+  display: block;
+}
+
+// On the author profile (top of page), the avatar should be a bit larger.
+.author_profile .author__avatar {
+  max-width: 220px;
+}
