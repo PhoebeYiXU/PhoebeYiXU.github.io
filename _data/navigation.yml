@@ -1,6 +1,6 @@
-# main links links
+# main links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
   - title: "News"
@@ -9,20 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Teaching"
+    url: "/#-teaching--curriculum-design"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  - title: "Grants"
+    url: "/#-research-grants-selected"
 
-  - title: "Internships"
-    url: "/#-internships"
-  
-  - title: "My Resume"
-    url: "/#-my-resume"
+  - title: "Honors"
+    url: "/#-honors--affiliations"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Habits"
-    url: "/#-habits"
+  - title: "Contact"
+    url: "/#-contact"
