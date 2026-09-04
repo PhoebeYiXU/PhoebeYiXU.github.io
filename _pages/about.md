@@ -142,26 +142,27 @@ I advocate for an *Agentic Education* paradigm, viewing the classroom as a real-
 
 # 🌏 Public Engagement & Impact
 
-- **Media coverage:** Featured expert in *新民晚报* (Xinmin Evening News) on older adults' digital well-being and short-video platforms (Nov 2021), in a national seminar co-hosted by the China Population Association and Douyin.
+- **Media coverage:** Featured expert in [*新民晚报* — "Active Aging" and short-video platforms (Nov 2021)](https://wap.xinmin.cn/content/32062090.html), in a national seminar co-hosted by the China Population Association and Douyin.
 - **Public scholarship:** Long-form course recaps on the [ICCI WeChat 公众号](https://mp.weixin.qq.com/) covering student-industry projects with **China Literature (阅文)**, **Shanghai Jiushi Performance (久事)**, and **Double Happiness (红双喜)** — reaching a professional audience across cultural-creative industries.
 - **Research uptake:** Publications cited **600+ times since 2020** (Google Scholar); AI-fairness and digital-well-being work covered by Chinese mainstream media.
 
-# 🤝 Selected PBL Industry Partnerships (WeChat 公众号)
+# 🤝 Selected PBL Industry Partnerships
 
-Long-form course recaps and student–industry project outputs from the *Digital Cultural and Creative Industries Research II* (数字文创产业调研II) project-based learning course, published on the [ICCI WeChat 公众号](https://mp.weixin.qq.com/) (China's primary long-form platform, ~1.3B MAU parent app). Each course cohort partners with a leading cultural-creative industry organization to deliver applied research — embodying 产学研结合 at scale:
+Long-form course recaps and student–industry project outputs from project-based learning courses taught at ICCI, including the *Digital Cultural and Creative Industries Research II* (数字文创产业调研II), *Artificial Intelligence and Cognition* (人工智能与认知), and *AI Art Installation* (人工智能艺术装置). Each cohort partners with a leading cultural-creative, technology, or social-impact organization to deliver applied research — embodying 产学研结合 at scale:
 
-- **[Course introduction: 4 concurrent PBL projects across the cultural-creative sector](https://mp.weixin.qq.com/s/_MF_rmOhfNQ3JFP9MBYn2w)** *— Mar 2025* · 全职高手粉丝研究 / 阅文二次元 IP / 久事演艺 SOP / 黄浦演艺大世界溢出效应
-- **[Course recap: 阅文集团 二次元 IP 衍生品](https://mp.weixin.qq.com/s/nSheiRtPeB45DeMP_hc40A)** *— Sep 2025* · Consumer research on 二次元 IP merchandise and co-branding with [China Literature](https://www.yuewen.com/) (阅文集团) — covering 《狐妖小红娘》 and 《斗破苍穹》 fan bases
-- **[Course recap: 上海久事演艺 演唱会 SOP](https://mp.weixin.qq.com/s/f_8oy7y0GNULU2__tiQ2Bg)** *— Apr 2025* · Standardization of concert/festival operations with [Shanghai Jiu Shi Performing Arts](https://www.jiushi.com.cn/) (久事) — 100+ page SOP deliverable covering full concert & music-festival lifecycle
-- **[Course recap: 黄浦演艺大世界 文旅溢出效应](https://mp.weixin.qq.com/s/ewMs1sElixczn2eQjxQFBw)** *— Apr 2025* · Cultural-tourism spillover analysis for Huangpu Performing Arts District with 谷元文创科技
-- **[Course recap: 骏飞实业 Z 世代 3C IP 联名](https://mp.weixin.qq.com/s/bGj8StqRUOh-d39MeQkzLg)** *— Jul 2025* · Z-generation IP co-branding strategy for 3C (computer/communication/consumer-electronics) products with [Shenzhen Junfei Industrial](http://www.szjfsw.cn/) (骏飞实业)
-- **[Course recap: ALLTIME 万物时 AI 情感硬件出海](https://mp.weixin.qq.com/s/5nxew4UakfOkDg2v4wyHMg)** *— Aug 2026* · Go-to-market strategy for AI emotional-companion hardware (万物岛 / oLand) entering global markets
-- **[Course recap: 上海天文馆 科普第三空间](https://mp.weixin.qq.com/s/asAhGDCMCcij1bg8q4nzdQ)** *— Aug 2026* · Public-science "third place" research with [Shanghai Astronomy Museum](https://www.sstm.org.cn/) (上海天文馆)
-- *(8th link: `gEB-F5gtNlZt5iRBSiGZl` — server returned only client-side JS; will retry with a different article from the archive if you have it handy)*
+- **[圈层连接与生态共建：阅文 × 交大网文社](https://mp.weixin.qq.com/s/g8SlhzsjDIG1ocuWBnKU7Q)** *— Aug 2026* · Incubated the SJTU Online-Literature Society with [China Literature](https://www.yuewen.com/) (阅文集团) — featured writer 狐尾的笔 campus talk + reusable SOP for future cohorts
+- **[科普第三空间研究：上海天文馆](https://mp.weixin.qq.com/s/asAhGDCMCcij1bg8q4nzdQ)** *— Aug 2026* · Public-science "third place" research with [Shanghai Astronomy Museum](https://www.sstm.org.cn/) (上海天文馆)
+- **[AI 情感硬件出海：ALLTIME 万物时](https://mp.weixin.qq.com/s/5nxew4UakfOkDg2v4wyHMg)** *— Aug 2026* · Go-to-market strategy for AI emotional-companion hardware entering global markets
+- **[数智文旅联合课堂：上海交大 × 复旦](https://mp.weixin.qq.com/s/YdlnHNQ5Skl6YwxqQvytZw)** *— Jun 2026* · Cross-university live-streamed case teaching on AI in 数智文旅 (smart cultural tourism)
+- **[沉浸式戏剧用户增长：上海影视乐园](https://mp.weixin.qq.com/s/7XPAXre30iVF42LJn23LeQ)** *— Mar 2026* · 《新世界·破笼之宴》 repeat-visit research with Shanghai Film Studio (上影狸想国)
+- **[Course introduction: 4 concurrent PBL projects](https://mp.weixin.qq.com/s/_MF_rmOhfNQ3JFP9MBYn2w)** *— Mar 2025* · Cohort overview — 阅文 / 久事演艺 / 谷元文创 / 黄浦演艺大世界
+- **[腾讯 Light 技术公益：文创学子获奖](https://mp.weixin.qq.com/s/mEwTX_cuHFbBrBsaalf1aQ)** *— Jul 2025* · Four student projects from 人工智能与认知 (锡绣 AR / 畅行视界 / 声路·虹桥 / AI 银发轻语) recognized at Tencent Light tech-for-good competition
+- **[二次元 IP 衍生品授权研究：阅文集团](https://mp.weixin.qq.com/s/nSheiRtPeB45DeMP_hc40A)** *— Sep 2025* · Consumer research on 《狐妖小红娘》 / 《斗破苍穹》 merchandise and co-branding with [China Literature](https://www.yuewen.com/)
+- **[Z 世代 3C IP 联名：骏飞实业](https://mp.weixin.qq.com/s/bGj8StqRUOh-d39MeQkzLg)** *— Jul 2025* · IP co-branding strategy for 3C products with Shenzhen Junfei Industrial (骏飞实业)
+- **[演唱会 SOP 标准化：上海久事演艺](https://mp.weixin.qq.com/s/f_8oy7y0GNULU2__tiQ2Bg)** *— Apr 2025* · 100+ page SOP covering full concert & music-festival lifecycle with [Shanghai Jiu Shi Performing Arts](https://www.jiushi.com.cn/) (久事)
+- **[文旅溢出效应研究：黄浦演艺大世界](https://mp.weixin.qq.com/s/ewMs1sElixczn2eQjxQFBw)** *— Apr 2025* · Cultural-tourism spillover analysis for Huangpu Performing Arts District with 谷元文创科技
 
-*Each cohort produces a 10K–40K-word industry-grade research report while generating open public-scholarship content for the WeChat 公众号 — demonstrating how project-based learning (PBL) can serve as a vehicle for industry-academia collaboration.*
-
-**Related articles from the *AI: Its Nature and Future* and *Digital Cultural and Creative Industries Research I* courses are also featured under the [News](#-news) section.**
+*Each project produces a 10K–40K-word industry-grade research report while generating open public-scholarship content for the WeChat 公众号 — demonstrating how project-based learning (PBL) can serve as a vehicle for industry-academia collaboration.*
 
 # 🏆 Honors & Affiliations
 
