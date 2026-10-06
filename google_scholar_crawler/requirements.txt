@@ -1,2 +1,6 @@
 jsonpickle==1.4.2
 scholarly==1.5.1
+# Pin bibtexparser<2.0: scholarly 1.5.1 imports `bibtexparser.bibdatabase`,
+# which was removed in bibtexparser 2.0+. Without this pin, pip resolves
+# bibtexparser>=2.1 and the Action fails with ModuleNotFoundError on every run.
+bibtexparser<2.0
