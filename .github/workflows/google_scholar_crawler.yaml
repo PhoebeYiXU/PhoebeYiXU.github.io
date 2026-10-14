@@ -16,6 +16,7 @@ jobs:
       run: |
         sudo apt-get install python3-setuptools
     - name: Run
+      timeout-minutes: 5  # hard backstop in case the in-Python 3min timeout fails
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
